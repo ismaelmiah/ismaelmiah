@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hey there! I'm Ismael.</h2>
+- 🤔 I’m would like to use my acquired knowledge to develop world class software.
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering at Daffodil International University.
-<!--- 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design. -->
 - 🌱 &nbsp; Learning more about Full Stack Developer(FE+BE)
+<!--- 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design. -->
 
 <h3>🛠 Tech Stack</h3>
 
@@ -38,8 +40,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.devismail.netlify.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.devismail.netlify.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ismail5g/"><img alt="LinkedIn" src="https://img.shields.io/badge/?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/ismail5g/"><img alt="Instagram" src="https://img.shields.io/badge/?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/ismail5g/"><img alt="LinkedIn" src="https://img.shields.io/badge/ismail5g-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/ismail5g/"><img alt="Facebook" src="https://img.shields.io/badge/ismail5g-facebook-blue?style=flat&logo=facebook"></a>
 <a href="mailto:ismail96dream@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ismail96dream@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
