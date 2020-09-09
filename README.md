@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hey there! I'm Ismael.</h2>
-- 🤔 I’m would like to use my acquired knowledge to develop world class software.
+- 🌱 A passionate self-taught Asp .Net Developer.
 
 
 <h3> 👨🏻‍💻 About Me </h3>
