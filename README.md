@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | Php | C++ | C
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
-- 🛢 &nbsp; MySQL | SQL Server
+- 💻 &nbsp; C# | C++ | C
+- 🌐 &nbsp; Asp .Net MVC | Angular | JavaScript | HTML | CSS | Bootstrap
+- 🛢 &nbsp; SQL Server | Cassandra | Postgres
 - 🔧 &nbsp; Git | Markdown
 
 <br/>
