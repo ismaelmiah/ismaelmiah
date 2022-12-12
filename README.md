@@ -1,7 +1,7 @@
 
 <!--### Hi there 👋
 
-**ismail5g/ismail5g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ismaelmiah/ismaelmiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,34 +15,61 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hey there! I'm Ismael.</h2>
-- 🌱 A passionate self-taught Asp .Net Developer.
+- 🌱 A passionate self-taught .Net Developer.
 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering at Daffodil International University.
-- 🌱 &nbsp; Learning more about Full Stack Developer(FE+BE)
-<!--- 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design. -->
+- 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design.
 
-<h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | C++ | C
-- 🌐 &nbsp; Asp .Net MVC | Angular | JavaScript | HTML | CSS | Bootstrap
-- 🛢 &nbsp; SQL Server | Cassandra | Postgres
-- 🔧 &nbsp; Git | Markdown
+### Languages and Tools: 🔥
+
+- **Languages**: 
+
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/js.png" style="max-width:100%;"></code> 
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/cpp.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/csharp.png" style="max-width:100%;"></code>
+
+- **Back-end**
+
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/dotnet.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/blazor.png" style="max-width:100%;"></code>
+
+- **Front-end**
+ 
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/jquery.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/angular.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/reactjs.png" style="max-width:100%;"></code>
+
+- **Databases**  
+
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/mssql.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/mongodb.jpeg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/postgres.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/sqlite.jpg" style="max-width:100%;"></code>
+
+- **Cloud & Open Source**  
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/github.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/netlify.png" style="max-width:100%;"></code>
+
+- **Tools**
+
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/postman.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/docker.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/vscode.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/visualstudio.png" style="max-width:100%;"></code>
 
 <br/>
 
-[![ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismail5g&show_icons=true)](https://github.com/ismail5g)
+[![ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaelmiah&show_icons=true)](https://github.com/ismaelmiah)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="https://devismail.netlify.app/"><img alt="PortFolio" src="https://img.shields.io/badge/Portfolio-www.devismail.netlify.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ismail5g/"><img alt="LinkedIn" src="https://img.shields.io/badge/ismail5g-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/ismail5g/"><img alt="Facebook" src="https://img.shields.io/badge/ismail5g-facebook-blue?style=flat&logo=facebook"></a>
+<a href="https://www.linkedin.com/in/ismaelmiah/"><img alt="LinkedIn" src="https://img.shields.io/badge/ismail5g-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/ismail96.12/"><img alt="Facebook" src="https://img.shields.io/badge/ismail5g-facebook-blue?style=flat&logo=facebook"></a>
 <a href="mailto:ismail96dream@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ismail96dream@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [ISMAIL5G](https://github.com/ismail5g)
