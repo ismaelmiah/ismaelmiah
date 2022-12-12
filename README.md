@@ -34,24 +34,24 @@ Here are some ideas to get you started:
 
 - **Back-end**
 
-  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/dotnet.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/dotnet.png" style="max-width:100%;"></code>
   <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/blazor.png" style="max-width:100%;"></code>
 
 - **Front-end**
  
   <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/jquery.png" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/angular.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/angular.png" style="max-width:100%;"></code>
   <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/reactjs.png" style="max-width:100%;"></code>
 
 - **Databases**  
 
-  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/mssql.jpg" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/mongodb.jpeg" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/postgres.jpg" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/sqlite.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/mssql.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/mongodb.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/postgres.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/sqlite.png" style="max-width:100%;"></code>
 
 - **Cloud & Open Source**  
-  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/github.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/github.png" style="max-width:100%;"></code>
   <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/netlify.png" style="max-width:100%;"></code>
 
 - **Tools**
