@@ -41,14 +41,14 @@ Here are some ideas to get you started:
  
   <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/jquery.png" style="max-width:100%;"></code>
   <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/angular.png" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/reactjs.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/react.png" style="max-width:100%;"></code>
 
 - **Databases**  
 
-  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/mssql.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/mssql.jpg" style="max-width:100%;"></code>
   <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/mongodb.png" style="max-width:100%;"></code>
   <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/postgres.png" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/sqlite.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/sqlite.jpg" style="max-width:100%;"></code>
 
 - **Cloud & Open Source**  
   <code><img height="30" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/github.png" style="max-width:100%;"></code>
