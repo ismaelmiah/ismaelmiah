@@ -13,7 +13,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Asp .NET, MVC, Web API, React, PostgreSQL, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Asp .NET, MVC, Web API, React, <br /> &nbsp; &nbsp; &nbsp;  &nbsp; PostgreSQL, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently working as a Full Stack Developer.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ismaelmiah).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ismaelmiah/ismaelmiah/issues/1)! I am happy to help.
