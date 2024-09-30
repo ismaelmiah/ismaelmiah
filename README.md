@@ -11,19 +11,21 @@
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/ismaelmiah/ismaelmiah/blob/master/assets/coder.gif" />
 
-### Talking about Personal Stuffs:
+### About me:
 
-- 🛠 &nbsp; I’m currently working with Asp .NET, MVC, Web API, React, <br /> &nbsp; &nbsp; &nbsp;  &nbsp; PostgreSQL, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently working as a Full Stack Developer.
+- Fullstack Software Engineer with over 3.5 years of Industry Experience.
+- Proficient in C#, Dot Net Framework, Dot Net Core, AngularJS, Angular & React.
+- 🤔   Exploring new technologies and developing software solutions and quick hacks.
+- 🎓   Completed My Bachelor's Degree in Software Engineering from Daffodil International University and doing masters in Computer Networking at University of Bedfordshire, UK.
+- 🌱   Learning more about Blockchain, AWS, Azure, Docker, Kubernetes.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ismaelmiah).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ismaelmiah/ismaelmiah/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: ismaelmiah.swe@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/ismaelmiah/ismaelmiah/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs, and playing [Chess](https://lichess.org/@/ismailhosen).
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
