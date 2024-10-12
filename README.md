@@ -14,7 +14,7 @@
 ### About me:
 
 - Fullstack Software Engineer with over 3.5 years of Industry Experience.
-- Proficient in C#, Dot Net Framework, Dot Net Core, AngularJS, Angular & React.
+- Proficient in C#, Dot Net Framework, Dot Net Core, Angular & React.
 - 🤔   Exploring new technologies and developing software solutions and quick hacks.
 - 🎓   Completed My Bachelor's Degree in Software Engineering from Daffodil International University and doing masters in Computer Networking at University of Bedfordshire, UK.
 - 🌱   Learning more about Blockchain, AWS, Azure, Docker, Kubernetes.
