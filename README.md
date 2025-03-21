@@ -2,7 +2,6 @@
 
 <a href="https://devismael.com"><img alt="Website" src="https://img.shields.io/badge/Website-www.devismael.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ismaelmiah/"><img alt="LinkedIn" src="https://img.shields.io/badge/ismaelmiah-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/ismail96.12/"><img alt="Facebook" src="https://img.shields.io/badge/ismail96.12-facebook-blue?style=flat&logo=facebook"></a>
 <a href="mailto:ismaelmiah.swe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ismaelmiah.swe@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 <p align="center">
