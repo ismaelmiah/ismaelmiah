@@ -12,10 +12,10 @@
 
 ### About me: [Check Portfolio](https://devismael.com)
 
-- Fullstack Software Engineer with over 3.5 years of Industry Experience.
-- Proficient in C#, Dot Net Framework, Dot Net Core, Angular & React.
+- Fullstack Software Engineer with over 4 years of Industry Experience.
+- Proficient in C#, Dot Net, Dot Net Core, Angular & React.
 - 🤔   Exploring new technologies and developing software solutions and quick hacks.
-- 🎓   Completed My Bachelor's Degree in Software Engineering from Daffodil International University and doing masters in Computer Networking at University of Bedfordshire, UK.
+- 🎓   Completed My Bachelor's Degree in Software Engineering from Daffodil International University.
 - 🌱   Learning more about Blockchain, AWS, Azure, Docker, Kubernetes.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ismaelmiah).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ismaelmiah/ismaelmiah/issues/1)! I am happy to help.
