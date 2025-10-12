@@ -15,12 +15,12 @@
 - Fullstack Software Engineer with over 4 years of Industry Experience.
 - Proficient in C#, Dot Net, Dot Net Core, Angular & React.
 - 🤔   Exploring new technologies and developing software solutions and quick hacks.
-- 🎓   Completed My Bachelor's Degree in Software Engineering from Daffodil International University.
+- 🎓   Completed My Masters in Computer Networking and Bachelor's in Software Engineering.
 - 🌱   Learning more about Blockchain, AWS, Azure, Docker, Kubernetes.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ismaelmiah).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ismaelmiah/ismaelmiah/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: ismaelmiah.swe@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/ismaelmiah/ismaelmiah/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://devismael.com/resume/Resume_Of_Ismael_Miah.pdf).
 
 ### My Absolute Favorites:
 
