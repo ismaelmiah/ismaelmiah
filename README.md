@@ -20,7 +20,6 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ismaelmiah).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ismaelmiah/ismaelmiah/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: ismaelmiah.swe@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://devismael.com/resume/Resume_Of_Ismael_Miah.pdf).
 
 ### My Absolute Favorites:
 
@@ -80,7 +79,7 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/ismaelmiah/grandnode2"><b>Grandnode2</b></a></td>
+	    <td><a href="https://github.com/ismaelmiah/grandnode2"><b>Grandnode2</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/ismaelmiah/grandnode2?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/ismaelmiah/grandnode2?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/ismaelmiah/grandnode2?style=flat-square"/></td>
@@ -88,12 +87,20 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/ismaelmiah/grandnode2?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/ismaelmiah/blogifier"><b> Blogifier</b></a></td>
+	    <td><a href="https://github.com/ismaelmiah/blogifier"><b> Blogifier</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/ismaelmiah/blogifier?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/ismaelmiah/blogifier?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/ismaelmiah/blogifier?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ismaelmiah/blogifier?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/ismaelmiah/blogifier?label=javascript&style=flat-square"/></td>
+      </tr>
+      <tr>
+	    <td><a href="https://github.com/ismaelmiah/RocketLeagueReplayParser"><b> RocketLeagueReplayParser</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/ismaelmiah/RocketLeagueReplayParser?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/ismaelmiah/RocketLeagueReplayParser?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/ismaelmiah/RocketLeagueReplayParser?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ismaelmiah/RocketLeagueReplayParser?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/ismaelmiah/RocketLeagueReplayParser?label=javascript&style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
